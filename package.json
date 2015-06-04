@@ -1,8 +1,8 @@
 {
   "version": "0.0.1",
-  "name": "GreetingsJS",
-  "description": "A sample AngularJS client for the GreetingsApp",
-  "repository": "https://github.com/rogargon/greetingsJS",
+  "name": "RandomFilms",
+  "description": "AngularJS client for the RandomFilms",
+  "repository": "https://github.com/acp13udl/randomfilms",
   "license": "MIT",
   "scripts": {
     "prestart": "npm install",
